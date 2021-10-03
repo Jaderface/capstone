@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "Woman's Tanker Boots",
+      "price": 129.00,
+      "description": "bold combat look on a lug platform heel completing the utilitarian design with a zippered pouch. ",
+      "category": "Boots",
+      "image": "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/19734354_fpx.tif?$browse$&wid=319&fmt=webp",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 2,
+      "title": "Women's Classic Mini Clear Boots",
+      "price": 99.99,
+      "description": " curly faux shearling shines through the transparent molded design of the UGG® Classic Mini clear boots.",
+      "category": "Boots",
+      "image": "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/19231237_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$&fmt=webp",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 3,
+      "title": "CALYPSO OVER THE KNEE BOOT",
+      "price": "128.99",
+      "description": "The Calypso over the knee boot from Lucky Brand is a cold-weather staple. This tall boot is crafted from suede for a luxe look and finished with a low-height heel for a style boost",
+      "category": "electronics",
+      "image": "https://images.dsw.com/is/image/DSWShoes/520461_241_ss_01?impolicy=qlt-medium-high&imwidth=640&imdensity=1",
+      "rating": {
+        "rat": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 4,
+      "title": "Women's Waterproof 6 Premium Lug Sole Boots",
+      "price": 170.00,
+      "description": "Get things done with the Timberland Premium Waterproof boots. The shoes are a fashionable fit for any locale",
+      "category": "Boots",
+      "image": "https://images.dsw.com/is/image/DSWShoes/359006_210_ss_01?impolicy=colpg&imwidth=800&imdensity=1https://slimages.macysassets.com/is/image/MCY/?&$b=MCY/swatches/&hei=75&wid=434&cropN=0,0,7,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=434,75&anchor=0,0&layer=1&size=60,75&src=is{$b$8/optimized/1321388_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=60,75&src=is{$b$9/optimized/1321389_fpx.tif}&anchor=0,0&posN=0.142857,0&layer=3&size=60,75&src=is{$b$0/optimized/1321390_fpx.tif}&anchor=0,0&posN=0.285714,0&layer=4&size=60,75&src=is{$b$2/optimized/9139822_fpx.tif}&anchor=0,0&posN=0.428571,0&layer=5&size=60,75&src=is{$b$1/optimized/9139821_fpx.tif}&anchor=0,0&posN=0.571429,0&layer=6&size=60,75&src=is{$b$8/optimized/9164548_fpx.tif}&anchor=0,0&posN=0.714286,0&layer=7&size=60,75&src=is{$b$1/optimized/9482501_fpx.tif}&anchor=0,0&posN=0.857143,0&fmt=webp",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 5,
+      "title": "MALYNN SNOW BOOT",
+      "price": 99.99,
+      "description": "Keep it cozy all season long in the Malynn snow boot from Timberland. This waterproof pair features a mixed material design with a chunky midsole and rugged traction for stable steps",
+      "category": "Boots",
+      "image": "https://images.dsw.com/is/image/DSWShoes/525386_312_ss_01?impolicy=colpg&imwidth=800&imdensity=1",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    }
+  ]
