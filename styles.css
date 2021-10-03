@@ -1,0 +1,46 @@
+.nav-right h4 {
+    padding-left: 10px;
+}
+
+.product{
+background-color: #195e83;
+}
+.product img{
+    width: 100px;
+    height: 100px;
+
+}
+li{
+    list-style-type: none;
+    
+}
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: #e28743;
+    text-align: center;
+  }
+
+
+
+
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+}
+
+
+
+
