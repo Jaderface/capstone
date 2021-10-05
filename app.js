@@ -12,7 +12,7 @@ $.getJSON('./data.json', function(products) {
             <img src="${product.image}"/>
             <p>${product.description}</p>
             <li>${"$"+product.price}</li>
-           <button>Buy</button>
+            <button>Buy</button>
         </div>
 
         `    
